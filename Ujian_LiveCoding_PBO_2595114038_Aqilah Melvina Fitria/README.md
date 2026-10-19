@@ -11,5 +11,5 @@ Tanggal pengerjaan : Senin 19 oktober 2026
 Waktu mulai : 04:49:08
 Waktu selesai : 06:21:24
 Durasi stopwatch : 01:30:30
-Repository GitHub : https://github.com/...
-Rekaman layar : https://drive.google.com/...
+Repository GitHub : [https://github.com/...](https://github.com/melvinaa/Ujian_LiveCoding_PBO_2595114038_Aqilah-Melvina-Fitria)
+Rekaman layar : [https://drive.google.com/...](https://drive.google.com/file/d/170DbMd9N1wxXz81xFTnuIDJKkhMEQ-kF/view?usp=sharing)
